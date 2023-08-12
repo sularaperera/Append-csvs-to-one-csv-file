@@ -23,10 +23,10 @@ The project adheres to a common data engineering folder structure:
 
 -   **Raw-Bronze** (source folder for raw data)
     <ol>
-    <li>    -   Folder1
-    <li>    -   Folder2
-    <li>    -   ...
-    <li>    -   Folder9
+        <li>    - Folder1</li>
+        <li>    - Folder2</li>
+        <li>    - ...</li>
+        <li>    - Folder9</li>
     </ol>
 
 <br>
@@ -34,7 +34,7 @@ The project adheres to a common data engineering folder structure:
 -   **Processed-Silver** (intermediate processed data)
     -   Master_Sales_File.csv (final output file)
 <br>
-<br>
+
 
 -   **Presentation-Gold** (final presentation layer, not covered in this project)
 
