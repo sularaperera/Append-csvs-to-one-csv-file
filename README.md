@@ -22,12 +22,12 @@ The project revolves around creating a streamlined data processing pipeline that
 The project adheres to a common data engineering folder structure:
 
 -   **Raw-Bronze** (source folder for raw data)
-    <ol>
-        <li>    - Folder1</li>
-        <li>    - Folder2</li>
-        <li>    - ...</li>
-        <li>    - Folder9</li>
-    </ol>
+    <ul>
+    <li>    - Folder1</li>
+    <li>    - Folder2</li>
+    <li>    - ...</li>
+    <li>    - Folder9</li>
+    </ul>
 
 <br>
 
