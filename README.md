@@ -13,7 +13,7 @@
     9 Acknowledgments
 
 ## 1. Introduction
-This documentation outlines the process of developing a Python project aimed at combining and analyzing sales data from multiple CSV files. The project utilizes the power of the **pandas, pathlib, glob, and rglob** libraries to efficiently process data and generate valuable insights. The main objective is to consolidate scattered data from 102 CSV files across 9 folders into a single master CSV file having 2.8+ million rows of data (rows=2,821,366, cols=20) for further analysis in a logistic/delivery company.
+This documentation outlines the process of developing a Python project aimed at combining and analyzing sales data from multiple CSV files. The project utilizes the power of the **pandas, pathlib, glob, and rglob** libraries to efficiently process data and generate valuable insights. The main objective is to consolidate scattered data from 102 CSV files across 9 folders into a single master CSV file having 2.8+ million rows of data for further analysis in a logistic/delivery company.
 
 ## 2. Project Overview
 The project revolves around creating a streamlined data processing pipeline that takes raw sales data, applies a standardized cleaning process, and ultimately presents the refined data in an easily analyzable format. This is achieved through a three-layer data structure: **Raw-Bronze, Processed-Silver, and Presentation-Gold**.
